@@ -1,4 +1,5 @@
 # MorgageHouse-Link-Shortner
+
 To run
 1. Set up database
 - Execute create-tables.sql under database folder
@@ -10,7 +11,4 @@ To run
 **NOTE on the 2nd** 
 - The changes are only needed when the application is running with debugger attached
 - The 2 inline port checking in UrlLinkShortnerService.GetFullPath need to get around angular routing conflicts with short url generated
-
-
-
 
